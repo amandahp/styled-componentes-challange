@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 import  ContainerTransition from '../../components/containertransition/containertransition'
 
-const ColorTransition = () => {
+const PageColorTransition = () => {
     return(
         <Fragment>
             <ContainerTransition text={' This is a one test '}/>
@@ -10,4 +10,4 @@ const ColorTransition = () => {
     )
 }
 
-export default ColorTransition
+export default PageColorTransition

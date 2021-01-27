@@ -4,12 +4,15 @@ import { GlobalStyle } from './style/pageButtonCreativeStyled'
 import ButtonCreative from '../../components/buttonCreative/buttonCreative'
 
 const PageButtonCreative = () => {
+    const handleClickButtonGithub = () => {
+        window.location.assign('https://github.com/amandahp')
+
+    }
     return(
         <Fragment>
             <GlobalStyle />
             <Container>
-                <ButtonCreative  textButton={'This a one Example'} />
-
+                <ButtonCreative handleClickButton={handleClickButtonGithub} textButton={'Clik-me'} />
             </Container>
         </Fragment>
     )

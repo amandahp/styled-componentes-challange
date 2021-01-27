@@ -7,7 +7,7 @@ import {GlobalStyle, List, ListItem, Span} from './styles/iconLayerPage'
 import Container from '../../styledcomponents/container/containerStyled'
 
 
-const IconLayer = () => {
+const PageIconLayer = () => {
     const iconTwitter = <FontAwesomeIcon icon={faTwitterSquare} />
     const iconGithub = <FontAwesomeIcon icon={faGithubSquare} />
     const iconLinkedin = <FontAwesomeIcon icon={faLinkedin} />
@@ -84,4 +84,4 @@ const IconLayer = () => {
     )
 }
 
-export default IconLayer
+export default PageIconLayer

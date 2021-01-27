@@ -3,7 +3,7 @@ import { GlobalStyle } from './styles/pageLoading'
 import Container from '../../styledcomponents/container/containerStyled'
 import Loader from '../../components/loading/loader'
 
-const Loading = () => {
+const PageLoading = () => {
 
     return(
         <Fragment>
@@ -15,4 +15,4 @@ const Loading = () => {
     )
 }
 
-export default Loading
+export default PageLoading

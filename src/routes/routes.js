@@ -1,15 +1,15 @@
 import Home from '../pages/home/home'
-import IconLayer from '../pages/icon-layer/iconlayer'
-import Loading from '../pages/loading/loading'
-import ColorTransition from '../pages/color-transition/colortransition'
-import PageButtonCreative from '../pages/button-creative/pageButtonCreative'
+import PageIconLayer from '../pages/icon-layer/pageiconlayer'
+import PageLoading from '../pages/loading/pageloading'
+import PageColorTransition from '../pages/color-transition/pagecolortransition'
+import PagePageButtonCreative from '../pages/button-creative/pageButtonCreative'
 
 const routes = [
     {path: '/home', component: Home},
-    {path: '/iconlayer', component: IconLayer},
-    {path: '/loading', component: Loading},
-    {path: '/transitioncontainer', component: ColorTransition },
-    {path: '/pagebuttoncreative', component: PageButtonCreative},
+    {path: '/iconlayer', component: PageIconLayer},
+    {path: '/loading', component: PageLoading},
+    {path: '/transitioncontainer', component: PageColorTransition },
+    {path: '/pagebuttoncreative', component: PagePageButtonCreative},
 ]
 
 export default routes
