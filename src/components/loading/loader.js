@@ -4,8 +4,7 @@ import { Container, Ring, TextTipe } from '../../styledcomponents/loader/loaderS
 const Loader = ({textTipe}) => {
     return(
         <Container>
-            <TextTipe>{textTipe}
-            </TextTipe>
+            <TextTipe>{textTipe}</TextTipe>
             <Ring />
         </Container>
 
