@@ -4,4 +4,14 @@
 
 ### Demonstração/ Demonstration: 
 <p>Button Layer</p>
-<img src="src/utils/gifs/Gravação-de-tela-de-27-01-2021-02_29_06-_online-video-cutter.com_.gif" alt="demonstration"></img>
+<img src="src/utils/gifs/layer.gif" alt="demonstration"></img>
+<br />
+<p>Loading</p>
+<img src="src/utils/gifs/loading.gif" alt="demonstration"></img>
+<br />
+<p>Text transition</p>
+<img src="src/utils/gifs/texttransition.gif" alt="demonstration"></img>
+<br />
+<p>Button Creative</p>
+<img src="src/utils/gifs/clickme.gif" alt="demonstration"></img>
+

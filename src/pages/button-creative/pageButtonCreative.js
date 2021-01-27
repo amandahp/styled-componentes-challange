@@ -12,7 +12,7 @@ const PageButtonCreative = () => {
         <Fragment>
             <GlobalStyle />
             <Container>
-                <ButtonCreative handleClickButton={handleClickButtonGithub} textButton={'Clik-me'} />
+                <ButtonCreative handleClickButton={handleClickButtonGithub} textButton={'Click-me'} />
             </Container>
         </Fragment>
     )

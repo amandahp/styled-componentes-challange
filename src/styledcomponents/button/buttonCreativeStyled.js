@@ -28,6 +28,7 @@ const ButtonCreativeStyled = styled.button`
     padding: 1rem 3rem;
     color: #f4f4f4;
     text-transform: uppercase;
+    cursor: pointer;
 ;`
 
 export default ButtonCreativeStyled
