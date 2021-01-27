@@ -16,7 +16,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 &:hover{
-    box-shadow: -10px 10px 10px rgba(1,1,1,.60);
+    box-shadow: -1px 1px 1px rgba(0,0,0,.10);
 }
 
 

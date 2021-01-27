@@ -5,7 +5,7 @@ export const GlobalStyle = createGlobalStyle`
     height: 100%;
     margin: 0;
     padding: 0;
-    background: #ffff;
+    background: #ffcb69;
     font-family: Open-Sans, Helvetica, Sans-Serif;
     display: flex;
     align-items: center;
@@ -29,7 +29,7 @@ export const ListItem = styled.li`
     transform: rotate(-30deg) skew(25deg);
     background: #ccc;
     &:hover{
-        box-shadow: -1px 1px 1px rgba(0,0,0,.1);
+        box-shadow: -1px 1px 1px rgba(0,0,0,.80);
     }
     &:nth-child(1){
         background: ${props => props.backgroundList};

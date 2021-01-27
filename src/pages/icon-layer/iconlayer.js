@@ -3,7 +3,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faTwitterSquare, faGithubSquare, faLinkedin} from '@fortawesome/free-brands-svg-icons'
 import {faEnvelopeSquare} from '@fortawesome/free-solid-svg-icons'
 import ButtonLayer from '../../components/buttonLayer/buttonlayer'
-import {GlobalStyle, List, ListItem, Span} from './styles/globalPage'
+import {GlobalStyle, List, ListItem, Span} from './styles/iconLayerPage'
 import Container from '../../styledcomponents/container/containerStyled'
 
 
